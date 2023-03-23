@@ -12,3 +12,7 @@
 
 ## Kiểm tra với các máy chủ bên ngoài
 ![Screenshot from 2023-03-22 15-57-28](https://user-images.githubusercontent.com/54473576/226851450-5f6d3331-253a-4aec-b34d-e3c8133e94ea.png)
+
+## Kiểm tra với DNS local
+
+![Screenshot from 2023-03-23 16-32-23](https://user-images.githubusercontent.com/54473576/227161601-814916ca-9d99-409c-881e-311cfc7d85b0.png)
