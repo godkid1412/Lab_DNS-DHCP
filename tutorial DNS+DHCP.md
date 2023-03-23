@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/54473576/226849444-63fd3e45-2bbe-49ce-8f32-65fff0a6172d.png)
+![Screenshot from 2023-03-23 17-08-29](https://user-images.githubusercontent.com/54473576/227170721-d767fd6d-00e2-4783-ae48-e9d094df9ca8.png)
 # Trên máy gateway:
 
 ## Thay đổi IPv4 của interface ens37 
